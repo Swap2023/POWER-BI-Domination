@@ -1,7 +1,7 @@
-# POWER-BI
-Introduction to Power BI
+**# POWER-BI
 
-▹ Components
+
+**▹ Components
 
 ▹ Architecture
 
@@ -31,3 +31,4 @@ Introduction to Power BI
 
 12. Exploratory Data Analysis
 13. Project: Subscriber Churn
+****
