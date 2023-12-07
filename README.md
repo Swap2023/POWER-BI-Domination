@@ -30,5 +30,9 @@
 11. Data Visualization
 
 12. Exploratory Data Analysis
-13. Project: Subscriber Churn
+13. Projects:
+    1: Customer churn analysis project
+    2: Work force management project
+    3: SN corp dashboard project
+    
 ****
